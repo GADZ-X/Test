@@ -1,24 +1,32 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
-.env/
-
-# OS / IDE
-.DS_Store
-Thumbs.db
-.vscode/
-
-# Big outputs / training / datasets
-outputs/
+# datasets / recordings / outputs
 datasets/
-**/checkpoints/
-**/training_state/
-*.mp4
-*.npz
+episode_*/
+logs/
+outputs/
+MUJOCO_LOG.TXT
 
-# logs
+# junk files accidentally created
+Any
+DOF
+None
+dict
+float
+int
+object
+sim
+str
+string
+tuple
+tuple'a
+Iterator[np.ndarray]
+Optional[int]
+Optional[Tuple[int
+Tuple[float
+Tuple[Optional[Tuple[int
+wrist_flex
+wrist_roll
+shoulder_pan
+shoulder_lift
+elbow
+
 *.log
