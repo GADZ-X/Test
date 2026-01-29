@@ -13,11 +13,10 @@
         "sim_gain": 0.93
       },
       "asset": {
-        "zip_url": "",
-        "zip_sha256": "",
+        "zip_url": "https://raw.githubusercontent.com/GADZ-X/Test/refs/heads/main/config/scenes_registry.json",
+        "zip_sha256": "f848e3e531458f05fd113affa7907a78da69a8dafabecb381372226f86a16dc0",
         "entry_xml": "scene.xml"
-      },
-      "xml_path": "assets/scenes/learm_cube_base/scene.xml"
+      }
     }
   ]
 }
