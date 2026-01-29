@@ -1,0 +1,23 @@
+{
+  "registry_version": 1,
+  "scenes": [
+    {
+      "scene_id": "learm_cube_base",
+      "name": "LeArm Cube (Base)",
+      "task": "Grab the cube",
+      "defaults": {
+        "fps": 60,
+        "action_repeat": 33,
+        "display_scale": 2.0,
+        "pulse_step": 5,
+        "sim_gain": 0.93
+      },
+      "asset": {
+        "zip_url": "",
+        "zip_sha256": "",
+        "entry_xml": "scene.xml"
+      },
+      "xml_path": "assets/scenes/learm_cube_base/scene.xml"
+    }
+  ]
+}
