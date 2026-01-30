@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "scenes": [
+    {
+      "scene_id": "learm_cube_base",
+      "name": "LeArm Cube (Base)",
+      "task": "Grab the cube",
+      "defaults": {
+        "fps": 60,
+        "action_repeat": 33,
+        "display_scale": 2.0,
+        "pulse_step": 5,
+        "sim_gain": 0.93
+      },
+      "asset": {
+        "zip_url": "https://github.com/GADZ-X/Test/releases/download/scene-pack-v1/scene_pack_v1.zip",
+        "zip_sha256": "<25B771FA233F1419947D96A6B6D330B5C039BC9337B5A7A69E3FEE1F8403EC93>",
+        "entry_xml": "scene_pack_v1/scene_base.xml"
+      }
+    },
+    {
+      "scene_id": "learm_cube_variant",
+      "name": "LeArm Cube (Variant)",
+      "task": "Grab the cube (variant)",
+      "defaults": {
+        "fps": 60,
+        "action_repeat": 33,
+        "display_scale": 2.0,
+        "pulse_step": 5,
+        "sim_gain": 0.93
+      },
+      "asset": {
+        "zip_url": "https://github.com/GADZ-X/Test/releases/download/scene-pack-v1/scene_pack_v1.zip",
+        "zip_sha256": "<25B771FA233F1419947D96A6B6D330B5C039BC9337B5A7A69E3FEE1F8403EC93>",
+        "entry_xml": "scene_pack_v1/scene_variant.xml"
+      }
+    }
+  ]
+}
