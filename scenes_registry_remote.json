@@ -14,7 +14,7 @@
       },
       "asset": {
         "zip_url": "https://github.com/GADZ-X/Test/releases/download/scene-pack-v1/scene_pack_v1.zip",
-        "zip_sha256": "<25B771FA233F1419947D96A6B6D330B5C039BC9337B5A7A69E3FEE1F8403EC93>",
+        "zip_sha256": "25B771FA233F1419947D96A6B6D330B5C039BC9337B5A7A69E3FEE1F8403EC93",
         "entry_xml": "scene_pack_v1/scene_base.xml"
       }
     },
@@ -31,9 +31,10 @@
       },
       "asset": {
         "zip_url": "https://github.com/GADZ-X/Test/releases/download/scene-pack-v1/scene_pack_v1.zip",
-        "zip_sha256": "<25B771FA233F1419947D96A6B6D330B5C039BC9337B5A7A69E3FEE1F8403EC93>",
+        "zip_sha256": "25B771FA233F1419947D96A6B6D330B5C039BC9337B5A7A69E3FEE1F8403EC93",
         "entry_xml": "scene_pack_v1/scene_variant.xml"
       }
     }
   ]
 }
+
